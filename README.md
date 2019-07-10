@@ -1,4 +1,4 @@
-# Curso de Pitch entrevistas: Faça apresentações de impacto
+# Anotações do Curso de Pitch entrevistas: Faça apresentações de impacto
 ![](https://www.alura.com.br/assets/api/share/curso-pitch.png).
 
 ### Apresentando o Pitch
